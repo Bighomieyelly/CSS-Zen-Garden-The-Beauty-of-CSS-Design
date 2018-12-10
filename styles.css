@@ -1,0 +1,71 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* begin writing your CSS below this line */
+
+
+body {
+ background-image:url("https://assets.boundingintocomics.com/content/uploads/2017/11/Black-Panther-Spirit-Realm.png"); 
+ color:lightgrey;
+ font-size:20px;
+text-align:center;
+
+ 
+}
+    
+p{ 
+color:lightgrey;
+font-size:20px;
+margin-left:500px;
+padding:10px;
+font-family: 'Unlock', cursive;
+margin-right:500px;
+text-align:justify;
+}
+
+
+h3{
+color: yellow;
+text-align:center;
+ }
+
+.preamble{
+border:inset #5200cc 10px;
+
+
+
+}
+
+.summary{
+border: inset #5200cc 10px ;
+}
+
+.explanation{
+border: inset #5200cc 10px ;
+}
+
+.participation{
+border:inset #5200cc 10px;
+}
+
+.benefits{
+border:inset #5200cc 10px;
+}
+
+.requirements{
+border:inset#5200cc 10px ;
+}
+
+.intro{
+text-align:center;
+font-family: 'Unlock', cursive;
+}
+
+a{
+color:#993399;
+font-size:20px;
+}
+
+
+
+
